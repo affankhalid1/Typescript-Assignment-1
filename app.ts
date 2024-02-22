@@ -1,1 +1,1 @@
-console.log("What is the day today ?")
+console.log("PAKISTAN ZINDABAD");
